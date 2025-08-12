@@ -1,5 +1,5 @@
 ### Aula de GitHub 
-# Nessa aprendi 
+# Nessa aula aprendi 
 - Git
 -git status
 -git add
